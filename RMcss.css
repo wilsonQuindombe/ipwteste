@@ -1,0 +1,8 @@
+.table{
+    border: 5 black solid;
+    border-collapse: collapse;
+}
+
+.imagem{
+    width: 50%;
+}
